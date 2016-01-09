@@ -1,5 +1,7 @@
 # dom-builder
 
+[![Build Status](https://travis-ci.org/wrumsby/dom-builder.svg)](https://travis-ci.org/wrumsby/dom-builder)
+
 A function to help build DOM trees.
 
 ## Installation
