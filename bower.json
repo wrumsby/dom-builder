@@ -1,0 +1,24 @@
+{
+  "name": "dom-builder",
+  "authors": [
+    "Walter Rumsby"
+  ],
+  "description": "A function to help build DOM trees.",
+  "main": "src/index.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "get-doc": "~1.0.0",
+    "create-element": "~1.1.0"
+  }
+}
